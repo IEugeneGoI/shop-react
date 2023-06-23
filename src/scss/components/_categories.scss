@@ -1,0 +1,48 @@
+@import "../variables";
+
+.categories {
+    flex: 1;
+    margin-bottom: 4em;
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        a {
+            flex: 1 20%;
+            + {
+                a {
+                    margin-left: 5em;
+                }
+            }
+
+            li {            
+                background-color: $orange;
+                padding: 0.8125em 1.875em;
+                border-radius: 1.875em;
+                text-align: center;
+                font-size: 1em;
+                font-weight: bold;
+                cursor: pointer;
+                transition: background-color 0.1s ease-in-out;
+                @include noselect();
+
+                &:hover {
+                    background-color: darken(#f9f9f9, 2%);
+                }
+    
+                &:active {
+                    background-color: darken(#f9f9f9, 5%);
+                }
+    
+                &.active {
+                    background-color: #282828;
+                    color: #fff;
+                }
+            }
+        }
+
+
+    }
+}

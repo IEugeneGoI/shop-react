@@ -1,0 +1,442 @@
+[
+    {
+        "id": "10",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук MagicBook X 14 2023 FRI-F56",
+        "price": 2702,
+        "category": 1,
+        "description": "14.0' 1920 x 1200, IPS, 60 Гц, Intel Core i5 12450H, 16 ГБ LPDDR4X, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки темно-серый"
+    },
+    {
+        "id": "11",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Tecno Megabook T1 4895180791734",
+        "price": 1587,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i3 1005G1, 12 ГБ LPDDR4X, SSD 256 ГБ, видеокарта встроенная, Linux, цвет крышки серебристый"
+    },
+    {
+        "id": "12",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук Huawei MateBook D 15 BoDE-WDH9 53013PAB",
+        "price": 1909,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i5 1155G7, 8 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки серый"
+    },
+    {
+        "id": "13",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Machenike Star 15 S15-i5",
+        "price": 3559,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, Intel Core i5 12450H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "14",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad 3 15ALC6 82KU010J",
+        "price": 1330,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 3 5300U, 8 ГБ DDR4, SSD 256 ГБ, видеокарта встроенная, без ОС, цвет крышки"
+    },
+    {
+        "id": "15",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Chuwi CoreBook 8GB+512GB",
+        "price": 1499,
+        "category": 1,
+        "description": "14.0' 1920 x 1200, IPS, 60 Гц, Intel Core i5 1035G4, 8 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки темно-серый"
+    },
+    {
+        "id": "16",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук HP 255 G8 45R27ES",
+        "price": 1699,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5500U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки темно-серый"
+    },
+    {
+        "id": "17",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad 5 15ITL05 82FG01JHRU",
+        "price": 1499,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i3 1115G4, 8 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки синий"
+    },
+    {
+        "id": "18",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15ARH7",
+        "price": 2697,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 120 Гц, AMD Ryzen 5 6600H, 16 ГБ DDR5, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, Windows 11, цвет крышки черный"
+    },
+    {
+        "id": "19",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13' M1 2020 MGN63",
+        "price": 3125,
+        "category": 1,
+        "description": "13.3' 2560 x 1600, IPS, 60 Гц, Apple M1, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "110",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Lenovo Legion 5 15ITH6 82JK005BPB",
+        "price": 2755,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 165 Гц, Intel Core i5 11400H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки темно-синий"
+    },
+    {
+        "id": "111",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15I",
+        "price": 3199,
+        "category": 1,
+        "description": "15.6' 1920 x 1080, IPS, 120 Гц, Intel Core i5 12450H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, без ОС, цвет крышки темно-серый"
+    },
+    {
+        "id": "112",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13' M2 2022 MLXY3",
+        "price": 4150,
+        "category": 1,
+        "description": "13.6' 2560 x 1664, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серебристый"
+    },
+    {
+        "id": "113",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Machenike L17 Gen 12 L17-i512",
+        "price": 3300,
+        "category": 1,
+        "description": "17.3' 2560 x 1440, IPS, 165 Гц, Intel Core i5 12500H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "20",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук Apple Macbook Pro 14' M1 Pro 2021 MKGR3",
+        "price": 6150,
+        "category": 2,
+        "description": "14.2' 3024 x 1964, IPS, 120 Гц, Apple M1 Pro (8 ядер), 16 ГБ, SSD 512 ГБ, видеокарта встроенная, Mac OS, цвет крышки серебристый"
+    },
+    {
+        "id": "21",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук HP Victus 15-fa0129nw 6Y7X3EA",
+        "price": 2990,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, Intel Core i5 12450H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 Ti 4 ГБ, Windows 11, цвет крышки серый"
+    },
+    {
+        "id": "22",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15IH",
+        "price": 2400,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 120 Гц, Intel Core i5 11300H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "23",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук ASUS Vivobook 16X M1603QA-MB097",
+        "price": 2158,
+        "category": 2,
+        "description": "16.0' 1920 x 1200, IPS, 60 Гц, AMD Ryzen 5 5600H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки серебристый"
+    },
+    {
+        "id": "24",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук ASUS TUF Gaming F15 FX506LHB-HN323",
+        "price": 2320,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, Intel Core i5 10300H, 8 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "25",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15ACH6",
+        "price": 2400,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5600H, 8 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "26",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук MSI GF63 Thin 11SC-623XRU",
+        "price": 2200,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i5 11400H, 8 ГБ DDR4, SSD 256 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "27",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00AQRK",
+        "price": 1890,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5625U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки серый"
+    },
+    {
+        "id": "28",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Apple Macbook Pro 16' M1 Pro 2021 MK183",
+        "price": 6956,
+        "category": 2,
+        "description": "16.2' 3456 x 2234, IPS, 120 Гц, Apple M1 Pro (10 ядер), 16 ГБ, SSD 512 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "29",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук ASUS VivoBook Pro 15 OLED",
+        "price": 3165,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, OLED, 60 Гц, AMD Ryzen 7 5800H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки темно-синий"
+    },
+    {
+        "id": "210",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук MSI Modern 14 C5M-018XBY",
+        "price": 1850,
+        "category": 2,
+        "description": "14.0' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5625U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "211",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13' M1 2020 MGN93",
+        "price": 3160,
+        "category": 2,
+        "description": "13.3' 2560 x 1600, IPS, 60 Гц, Apple M1, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серебристый"
+    },
+    {
+        "id": "212",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук MSI Katana GF66 11UE-491XPL",
+        "price": 3450,
+        "category": 2,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, Intel Core i7 11800H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "30",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Horizont H-book 15 МАК4 T74E4W",
+        "price": 2400,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i7 1195G7, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки синий"
+    },
+    {
+        "id": "31",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук MSI Titan GT77HX 13VI-219BY",
+        "price": 20600,
+        "category": 3,
+        "description": "17.3' 3840 x 2160, IPS, 144 Гц, Intel Core i9 13980HX, 64 ГБ DDR5, SSD 4096 ГБ, видеокарта NVIDIA GeForce RTX 4090 16 ГБ, Windows 11 Pro, цвет крышки серый"
+    },
+    {
+        "id": "32",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Apple Macbook Pro 14' M2 Pro 2023 MPHE3",
+        "price": 7700,
+        "category": 3,
+        "description": "14.2' 3024 x 1964, IPS, 120 Гц, Apple M2 Pro (10 ядер), 16 ГБ, SSD 512 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "33",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13' M1 2020 Z1240001T",
+        "price": 4700,
+        "category": 3,
+        "description": "13.3' 2560 x 1600, IPS, 60 Гц, Apple M1, 16 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "34",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук ASUS TUF Gaming F15 FX506HC-HN004",
+        "price": 2434,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, Intel Core i5 11400H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "35",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук Acer Nitro 5 AN515-46-R6ER",
+        "price": 3490,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 165 Гц, AMD Ryzen 5 6600H, 16 ГБ DDR5, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, Linux, цвет крышки черный"
+    },
+    {
+        "id": "36",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук ASUS ROG Strix G15 G513IC-HN094",
+        "price": 3290,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, AMD Ryzen 7 4800H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки темно-серый"
+    },
+    {
+        "id": "37",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15ACH6",
+        "price": 3000,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 120 Гц, AMD Ryzen 5 5600H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, Windows 10, цвет крышки черный"
+    },
+    {
+        "id": "38",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Horizont H-book 15 МАК4 T32E3W",
+        "price": 1470,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i3 1115G4, 8 ГБ DDR4, SSD 256 ГБ, видеокарта встроенная, Windows 11, цвет крышки синий"
+    },
+    {
+        "id": "39",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad Gaming 3 15ACH6",
+        "price": 2385,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5600H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "310",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук ASUS ROG Strix G18 (2023) G814JU-N5059",
+        "price": 5200,
+        "category": 3,
+        "description": "18' 1920 x 1200, IPS, 165 Гц, Intel Core i7 13650HX, 16 ГБ DDR5, SSD 1024 ГБ, видеокарта NVIDIA GeForce RTX 4050 6 ГБ, без ОС, цвет крышки серый"
+    },
+    {
+        "id": "311",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13' M2 2022 MLY33",
+        "price": 4200,
+        "category": 3,
+        "description": "13.6' 2560 x 1664, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки темно-синий"
+    },
+    {
+        "id": "312",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук ASUS VivoBook Pro 15 M6500QC-HN058",
+        "price": 2700,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, AMD Ryzen 5 5600H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce RTX 3050 4 ГБ, без ОС, цвет крышки темно-синий"
+    },
+    {
+        "id": "313",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Maibenben x Mechrevo X558",
+        "price": 3415,
+        "category": 3,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, AMD Ryzen 7 5800H, 32 ГБ DDR4, SSD 1024 ГБ, видеокарта NVIDIA GeForce RTX 3060 6 ГБ, Linux, цвет крышки серый"
+    },
+    {
+        "id": "40",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad 3 15ALC6 82KU002TRK",
+        "price": 1710,
+        "category": 4,
+        "description": "15.6э 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5500U, 16 ГБ DDR4, SSD 256 ГБ, видеокарта встроенная, без ОС, цвет крышки серый"
+    },
+    {
+        "id": "41",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук ASUS ROG Strix G15 G513IH-HN014",
+        "price": 3510,
+        "category": 4,
+        "description": "15.6' 1920 x 1080, IPS, 144 Гц, AMD Ryzen 7 4800H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта NVIDIA GeForce GTX 1650 4 ГБ GDDR6, без ОС, цвет крышки темно-серый"
+    },
+    {
+        "id": "42",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук HONOR MagicBook X 16 2023",
+        "price": 3000,
+        "category": 4,
+        "description": "16.0' 1920 x 1200, IPS, 60 Гц, Intel Core i5 12450H, 16 ГБ LPDDR4X 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки темно-серый"
+    },
+    {
+        "id": "43",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Xiaomi RedmiBook 15 2022",
+        "price": 1500,
+        "category": 4,
+        "description": "15.6' 1920 x 1080, TN+Film, 60 Гц, Intel Core i3 1115G4, 8 ГБ DDR4, SSD 256 ГБ, видеокарта встроенная, Windows 11, цвет крышки серый"
+    },
+    {
+        "id": "44",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук HP Pavilion 15-eg2419nw 6Y7X2EA",
+        "price": 2450,
+        "category": 4,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, Intel Core i5 1235U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, Windows 11, цвет крышки серебристый"
+    },
+    {
+        "id": "45",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Apple Macbook Air 15' M2 2023 MQKR3",
+        "price": 6500,
+        "category": 4,
+        "description": "15.3 2880 x 1864, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серебристый"
+    },
+    {
+        "id": "46",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук MSI Modern 14 C5M-014XBY",
+        "price": 1800,
+        "category": 4,
+        "description": "14.0' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5625U, 8 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки серебристый"
+    },
+    {
+        "id": "47",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук MSI Modern 14 C5M-010XRU",
+        "price": 1700,
+        "category": 4,
+        "description": "14.0' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 5 5625U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки черный"
+    },
+    {
+        "id": "48",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/99c1c2ddb90e4711590621ad3a4ab0dc.jpeg",
+        "title": "Ноутбук ASUS Vivobook 16X M1603QA-MB102",
+        "price": 2375,
+        "category": 4,
+        "description": "16.0' 1920 x 1200, IPS, 60 Гц, AMD Ryzen 7 5800H, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки серебристый"
+    },
+    {
+        "id": "49",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/8de0f7f498ce489128473ae8e5243f1d.jpeg",
+        "title": "Ноутбук Apple Macbook Air 15' M2 2023 MQKP3",
+        "price": 5985,
+        "category": 4,
+        "description": "15.3' 2880 x 1864, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "410",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/4b2e2489c5a675cd36aa2117d9cb7106.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13 M2 2022 MLXW3",
+        "price": 4000,
+        "category": 4,
+        "description": "13.6' 2560 x 1664, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки серый"
+    },
+    {
+        "id": "411",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/aa793c655a5a42c88b0786a8a06fef52.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13 M2 2022 MLY13",
+        "price": 4020,
+        "category": 4,
+        "description": "13.6' 2560 x 1664, IPS, 60 Гц, Apple M2, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки золотистый"
+    },
+    {
+        "id": "412",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/fc7e57cac72b78bfed535faff0c245c5.jpeg",
+        "title": "Ноутбук Apple Macbook Air 13 M1 2020 MGND3",
+        "price": 3130,
+        "category": 4,
+        "description": "13.3' 2560 x 1600, IPS, 60 Гц, Apple M1, 8 ГБ, SSD 256 ГБ, видеокарта встроенная, Mac OS, цвет крышки золотистый"
+    },
+    {
+        "id": "413",
+        "imageUrl": "https://content2.onliner.by/catalog/device/main/dd404af264ebcefac16380426695476b.jpeg",
+        "title": "Ноутбук Lenovo IdeaPad 5 15ALC05 82LN007DRK",
+        "price": 2090,
+        "category": 4,
+        "description": "15.6' 1920 x 1080, IPS, 60 Гц, AMD Ryzen 7 5700U, 16 ГБ DDR4, SSD 512 ГБ, видеокарта встроенная, без ОС, цвет крышки темно-серый"
+    }
+]
